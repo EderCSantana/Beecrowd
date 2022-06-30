@@ -1,0 +1,15 @@
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\bin\Debug\net6.0\ep1001.exe
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\bin\Debug\net6.0\ep1001.deps.json
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\bin\Debug\net6.0\ep1001.runtimeconfig.json
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\bin\Debug\net6.0\ep1001.dll
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\bin\Debug\net6.0\ep1001.pdb
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\ep1001.csproj.AssemblyReference.cache
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\ep1001.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\ep1001.AssemblyInfoInputs.cache
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\ep1001.AssemblyInfo.cs
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\ep1001.csproj.CoreCompileInputs.cache
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\ep1001.dll
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\refint\ep1001.dll
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\ep1001.pdb
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\ep1001.genruntimeconfig.cache
+c:\Users\Eder\Documents\GitHub\Beecrowd\C#\ep1001\obj\Debug\net6.0\ref\ep1001.dll

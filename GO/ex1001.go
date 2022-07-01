@@ -27,6 +27,6 @@ func main() {
 	fmt.Scanf("%d", &NumA)
 	fmt.Scanf("%d", &NumB)
 
-	Som = NumA + NumB
-	fmt.Printf("X = %d", Sum)
+	Sum = NumA + NumB
+	fmt.Printf("X = %d\n", Sum)
 }

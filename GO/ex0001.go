@@ -1,13 +1,17 @@
 package main
 
 import (
-    "fmt"
+	"fmt"
 )
-  
+
 func main() {
 
-    const text = "Hello World!\n"
+	const text = "Hello World!\n"
 
-    fmt.Print(text)
-  
+	var name string
+
+	fmt.Print(text)
+	fmt.Scan(&name)
+	fmt.Print(name)
+
 }

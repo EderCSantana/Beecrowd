@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ConsoleApplication1
+namespace ConsoleApplication2
 {
-    class Program
+    class Program2
     {
         static void Main(string[] args)
         {

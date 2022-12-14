@@ -1,0 +1,15 @@
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\bin\Debug\net6.0\ex1003.exe
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\bin\Debug\net6.0\ex1003.deps.json
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\bin\Debug\net6.0\ex1003.runtimeconfig.json
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\bin\Debug\net6.0\ex1003.dll
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\bin\Debug\net6.0\ex1003.pdb
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\ex1003.csproj.AssemblyReference.cache
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\ex1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\ex1003.AssemblyInfoInputs.cache
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\ex1003.AssemblyInfo.cs
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\ex1003.csproj.CoreCompileInputs.cache
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\ex1003.dll
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\refint\ex1003.dll
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\ex1003.pdb
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\ex1003.genruntimeconfig.cache
+C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1003\obj\Debug\net6.0\ref\ex1003.dll

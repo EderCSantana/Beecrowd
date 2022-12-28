@@ -7,9 +7,9 @@
 
 #write(paste0("X =", NumA, ''))
 
-NumA <- as.integer(readline(prompt = ))
-NumB <- as.integer(readline(prompt = ))
+NumA <- as.integer(readline(prompt=))
+NumB <- as.integer(readline(prompt=))
 
 NumA = NumA + NumB
 
-print(paste0('X =', NumA, ''))
+print(paste0("X =", NumA, ""))

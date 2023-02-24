@@ -1,0 +1,5 @@
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1006\obj\Debug\net6.0\ex1006.csproj.AssemblyReference.cache
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1006\obj\Debug\net6.0\ex1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1006\obj\Debug\net6.0\ex1006.AssemblyInfoInputs.cache
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1006\obj\Debug\net6.0\ex1006.AssemblyInfo.cs
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1006\obj\Debug\net6.0\ex1006.csproj.CoreCompileInputs.cache

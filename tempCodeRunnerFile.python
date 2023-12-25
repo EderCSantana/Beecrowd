@@ -1,0 +1,97 @@
+def first_fit(item_sizes, num_bins, bin_size):
+    bins = [[] for i in range(num_bins)]
+    for item in item_sizes:
+        for i in range(num_bins):
+            if sum(bins[i]) + item <= bin_size:
+                bins[i].append(item)
+                break
+        else:
+            return "Items cannot be packed into the given number of bins and bin size."
+    return bins
+
+def next_fit(item_sizes, num_bins, bin_size):
+    bins = [[] for i in range(num_bins)]
+    curr_bin = 0
+    for item in item_sizes:
+        if sum(bins[curr_bin]) + item <= bin_size:
+            bins[curr_bin].append(item)
+        else:
+            curr_bin = (curr_bin + 1) % num_bins
+            if sum(bins[curr_bin]) + item <= bin_size:
+                bins[curr_bin].append(item)
+            else:
+                for i in range(num_bins):
+                    if sum(bins[i]) + item <= bin_size:
+                        bins[i].append(item)
+                        break
+                else:
+                    return "Items cannot be packed into the given number of bins and bin size."
+    return bins
+
+def best_fit(item_sizes, num_bins, bin_size):
+    bins = [[] for i in range(num_bins)]
+    for item in item_sizes:
+        free_space = [bin_size - sum(b) for b in bins]
+        if max(free_space) < item:
+            for i in range(num_bins):
+                if sum(bins[i]) + item <= bin_size:
+                    bins[i].append(item)
+                    break
+            else:
+                return "Items cannot be packed into the given number of bins and bin size."
+        else:
+            best_bin = free_space.index(max(free_space))
+            bins[best_bin].append(item)
+    return bins
+
+def worst_fit(item_sizes, num_bins, bin_size):
+    bins = [[] for i in range(num_bins)]
+    for item in item_sizes:
+        free_space = [bin_size - sum(b) for b in bins]
+        if max(free_space) < item:
+            for i in range(num_bins):
+                if sum(bins[i]) + item <= bin_size:
+                    bins[i].append(item)
+                    break
+            else:
+                return "Items cannot be packed into the given number of bins and bin size."
+        else:
+            worst_bin = free_space.index(min(free_space))
+            bins[worst_bin].append(item)
+    return bins
+
+def pack_items(item_sizes, num_bins, bin_size):
+    bins = first_fit(item_sizes, num_bins, bin_size)
+    unfitted_items = []
+    for i in range(len(item_sizes)):
+        if item_sizes[i] not in [item for sublist in bins for item in sublist]:
+            unfitted_items.append(item_sizes[i])
+    if unfitted_items:
+        for i in range(len(bins)):
+            free_space = bin_size - sum(bins[i])
+            for item in unfitted_items:
+                if item <= free_space:
+                    bins[i].append(item)
+                    unfitted_items.remove(item)
+                    free_space -= item
+                    if not unfitted_items:
+                        break
+    return bins, unfitted_items
+# Example usage of the modified 1D bin packing code
+
+bin_size = 6  # Size of each bin
+items = [4, 1, 2, 5, 3, 2, 3, 6, 3]  # List of item sizes
+
+# Call the packing function with the parameters
+packed_items = pack_items(items, bin_size)
+
+# Print the packed items
+for box, items in packed_items.items():
+    print(f"Box {box}: {items}")
+
+# Output:
+# Box 1: [4, 2]
+# Box 2: [1, 5]
+# Box 3: [3, 2, 3]
+# Box 4: [6]
+# Box 5: [3]

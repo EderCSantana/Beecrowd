@@ -13,3 +13,11 @@ C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\refint\ex1005
 C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ex1005.pdb
 C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ex1005.genruntimeconfig.cache
 C:\Users\Eder\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ref\ex1005.dll
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ex1005.csproj.AssemblyReference.cache
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ex1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ex1005.AssemblyInfoInputs.cache
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ex1005.AssemblyInfo.cs
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ex1005.csproj.CoreCompileInputs.cache
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ex1005.dll
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\refint\ex1005.dll
+C:\Users\Eder Santana\Documents\GitHub\Beecrowd\C#\ex1005\obj\Debug\net6.0\ex1005.pdb

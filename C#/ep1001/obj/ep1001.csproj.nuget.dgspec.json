@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\ep1001.csproj": {}
+    "C:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\ep1001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\ep1001.csproj": {
+    "C:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\ep1001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\ep1001.csproj",
+        "projectUniqueName": "C:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\ep1001.csproj",
         "projectName": "ep1001",
-        "projectPath": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\ep1001.csproj",
-        "packagesPath": "C:\\Users\\Eder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\obj\\",
+        "projectPath": "C:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\ep1001.csproj",
+        "packagesPath": "C:\\Users\\Eder Santana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ep1001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eder\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Eder Santana\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

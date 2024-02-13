@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace  ColsoleApllication{
+namespace  ex1007{
     class program1007{
         static void Main(){
             int a, b, c, d, diferenca;

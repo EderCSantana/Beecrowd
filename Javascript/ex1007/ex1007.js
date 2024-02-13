@@ -9,7 +9,7 @@ var B = parseInt(valores.shift());
 var C = parseInt(valores.shift());
 var D = parseInt(valores.shift());
 
-export function diferenca(A, B, C, D) {
+function diferenca(A, B, C, D) {
 	return (A * B - C * D);
 }
 

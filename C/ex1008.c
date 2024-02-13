@@ -4,10 +4,11 @@ float salrio(int horas, float valor_hora);
 
 int	main()
 {
-	int		a, b;
-	float	c;
+	int		id, hours;
+	float	value_hour;
 
-
+	scanf("%d %d %f", &id, &hours, &c);
+	printf("NUMBER = %d\nSALARY = U$ %.2fl\n", id, salario(hours, value_hour))
 }
 
 

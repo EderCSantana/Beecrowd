@@ -7,12 +7,12 @@ public class Main {
 		InputStreamReader ir = new InputStreamReader(System.in);
 		BufferedReader in = new BufferedReader(ir);
 
-		double n, R, A;
+		int A, B, SOMA;
 
-		n = 3.14159;
-		R = Double.parseDouble(in.readLine());
-		A = n * R * R;
+		A = Integer.parseInt(in.readLine());
+		B = Integer.parseInt(in.readLine());
+		SOMA = A + B;
 
-		System.out.printf("A=%.4f\n", A);
+		System.out.printf("SOMA = %d\n", SOMA);
 	}
 }

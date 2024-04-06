@@ -7,6 +7,10 @@ public class Main {
 		InputStreamReader ir = new InputStreamReader(System.in);
 		BufferedReader in = new BufferedReader(ir);
 
-		
+		double a, b, media;
+
+		a = Double.parseDouble(in.readLine());
+		b = Double.parseDouble(in.readLine());
+		media = 
 	}
 }

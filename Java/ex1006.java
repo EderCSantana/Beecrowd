@@ -1,4 +1,4 @@
-import  java.io.BufferedReader;
+import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
@@ -7,12 +7,13 @@ public class Main {
 		InputStreamReader ir = new InputStreamReader(System.in);
 		BufferedReader in = new BufferedReader(ir);
 
-		double a, b, media;
+		double a, b, c, avg;
 
 		a = Double.parseDouble(in.readLine());
 		b = Double.parseDouble(in.readLine());
-		media = ((a * 3.5) + (b * 7.5))/11;
+		c = Double.parseDouble(in.readLine());
 
-		System.out.printf("MEDIA = %.5f\n", media);
+		avg = (a * 2 + b * 3 + c * 5)/10;
+		System.out.printf("MEDIA = %.1f\n", avg);
 	}
 }

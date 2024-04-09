@@ -8,7 +8,7 @@ int	main()
 	float	value_hour;
 
 	scanf("%d %d %f", &id, &hours, &c);
-	printf("NUMBER = %d\nSALARY = U$ %.2fl\n", id, salario(hours, value_hour))
+	printf("NUMBER = %d\nSALARY = U$ %.2fl\n", id, salario(hours, value_hour));
 }
 
 

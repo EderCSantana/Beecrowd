@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VwPQMj9qRazV3efmx/Zoa0biUy44KRVBME5DEmmDJXIWcwTI0j3Hh6Yb1RutKj+Dt2TqBHgDW4MGrW8x0jvNzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ex1008\\ex1008\\ex1008.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+id = int(input())
+hours = int(input())
+value_hour = float(input())
+salary = (hours * value_hour)
+print("NUMBER = {}\nSALARY = U$ {:.2f}".format(id, salary))

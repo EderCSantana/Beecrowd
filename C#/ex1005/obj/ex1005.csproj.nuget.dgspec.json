@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\ex1005.csproj": {}
+    "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\ex1005.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\ex1005.csproj": {
+    "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\ex1005.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\ex1005.csproj",
+        "projectUniqueName": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\ex1005.csproj",
         "projectName": "ex1005",
-        "projectPath": "c:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\ex1005.csproj",
-        "packagesPath": "C:\\Users\\Eder Santana\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Eder Santana\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\obj\\",
+        "projectPath": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\ex1005.csproj",
+        "packagesPath": "C:\\Users\\Eder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ex1005\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eder Santana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Eder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

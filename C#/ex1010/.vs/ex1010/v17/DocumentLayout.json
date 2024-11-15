@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ex1010\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DA4A38-B061-4E60-9699-9620F1FC9191}|ex1010\\ex1010.csproj|c:\\users\\eder\\documents\\github\\beecrowd\\c#\\ex1010\\ex1010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DA4A38-B061-4E60-9699-9620F1FC9191}|ex1010\\ex1010.csproj|solutionrelative:ex1010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ex1010\\ex1010\\Program.cs",
+              "RelativeDocumentMoniker": "ex1010\\Program.cs",
+              "ToolTip": "C:\\Users\\Eder\\Documents\\GitHub\\Beecrowd\\C#\\ex1010\\ex1010\\Program.cs",
+              "RelativeToolTip": "ex1010\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:43:15.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

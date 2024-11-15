@@ -1,4 +1,5 @@
-num_a <- as.integer(readline(prompt=))
-num_b <- as.integer(readline(prompt = ))
+input <- file('stdin', 'r')
+num_a <- as.integer(readLines(input, n=1))
+num_b <- as.integer(readLines(input, n=1))
 soma <- num_a + num_b
-print(paste0("SOMA = ", soma, ""))
+cat("SOMA = ", soma, "\n", sep = "")
